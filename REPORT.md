@@ -38,7 +38,7 @@ WEIGHT_DECAY = 0        # L2 weight decay                      <br>
 ## Plot of score vs episodes(training)
 ![](/images/tennis_score.png)
 <br>
-Environment is solved in 1386 episodes with an average score of 0.51(over 100 consecutive episodes), average scores are indicated by red curve<br>
+Environment is solved in 1515 episodes with an average score of 0.51(over 100 consecutive episodes), average scores are indicated by red curve<br>
 Weights file: **checkpoint_actor.pth, checkpoint_critic.pth**
 
 ## Ideas for Future Work
